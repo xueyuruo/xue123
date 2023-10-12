@@ -1541,6 +1541,38 @@
           "name": "opensles",
           "value": "0"
         },
+{
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+ {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    }
+  ],
+ "name": "车弟",
+      "type": 1,
+      "url": "https://xjx.tvcms.top/api/?key=a035e75110289821feec5033ffde2bec&url=",
+      "ext": {
+        "flag": [
+          "TD",
+          "JHA",
+          "JHB",
+          "mmal",
+          "FY"
+        ]
+      }
+    },
         {
           "category": 4,
           "name": "overlay-format",
