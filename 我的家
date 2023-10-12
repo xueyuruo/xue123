@@ -1,29 +1,8 @@
 {
-  "warningText": "🐼提醒您:VIP 请放心使用🐼",
   "sites": [
     {
       "key": "豆瓣",
       "name": "我的家",
-      "type": 3,
-      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "豆瓣",
-      "name": "🔍豆瓣荐片",
-      "type": 3,
-      "api": "./js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./js/douban.js"
-    },
-　　　{
-      "key": "豆瓣",
-      "name": "关注我的家",
       "type": 3,
       "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
