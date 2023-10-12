@@ -22,7 +22,7 @@
       "ext": "./js/douban.js"
     },
     {
-      "key": "csp_KungFu404",
+      "key": "csp_KungFu",
       "name": "🎦阿里设置",
       "type": 3,
       "api": "csp_KungFu404",
