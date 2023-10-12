@@ -22,16 +22,6 @@
       "ext": "./js/douban.js"
     },
 　　　{
-      "key": "csp_KungFu404",
-      "name": "🎦阿里设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "./alibaba.jar"
-    },
-{
       "key": "豆瓣",
       "name": "关注我的家",
       "type": 3,
